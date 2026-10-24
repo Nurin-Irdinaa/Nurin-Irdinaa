@@ -15,4 +15,4 @@ Computer Science student at UiTM with a passion for software engineering, machin
 - [Stationery-Image-Classification-Dataset] https://github.com/nurinirdinaa/Stationery-Image-Classification-Dataset
 
 ## Contact
-- Email: nurinirrdinaaa@gmail.com
+- Email: 338412516+nurinirdinaa@users.noreply.github.com
