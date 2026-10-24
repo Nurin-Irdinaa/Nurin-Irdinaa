@@ -9,7 +9,8 @@ Computer Science student at UiTM with a passion for software engineering, machin
 
 ## Skills and tools
 - Languages: Python, Java, C++, SQL
-- Tools & Environments: GitHub, NetBeans, SableCC, draw.io 
+- Machine Learning & Computer Vision: TensorFlow, Keras 
+- Developer Tools & Environments: Git, GitHub, VS Code, GitHub Codespaces, NetBeans, SableCC, StarUML, draw.io
 
 ## Projects
 - [Stationery-Image-Classification-Dataset] https://github.com/nurinirdinaa/Stationery-Image-Classification-Dataset
